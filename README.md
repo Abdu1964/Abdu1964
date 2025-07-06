@@ -27,10 +27,23 @@ I'm passionate about building AI systems that make real-world impact. Currently 
 
 ### 📂 Projects
 
-#### 🧬 [BioCypher-KG](https://github.com/Abdu1964/biocypher-kg)
+#### 🧬 [BioCypher-KG](https://github.com/Abdu1964/biocypher-kg)  
 > Biomedical Knowledge Graph project for structured biological data integration.
 
+#### 🧬 [Amharic Hate Speech Detection](https://github.com/Abdu1964/amharic-hate-speech-detection)  
+> Fine-tuning AI models to detect hate speech in Amharic language datasets.
 
+#### ⚙️ [Ansible-Deploy_v2.0](https://github.com/Abdu1964/ansible-deploy_v2.0)  
+> Automated server and application deployment using Ansible playbooks.
+
+#### 👨‍💻 [Developer_Connector](https://github.com/Abdu1964/Developer_Connector)  
+> A platform to connect developers, share resources, and collaborate on projects.
+
+#### 🛡️ [Dockerized-Mail-Spam-Filter-v1](https://github.com/Abdu1964/Dockerized-Mail-Spam-Filter-v1)  
+> Docker-based spam filtering system for emails using machine learning techniques.
+
+#### 🔗 [Blockchain-with-FastAPI](https://github.com/Abdu1964/blockchain-with-FastAPI)  
+> Lightweight blockchain implementation with FastAPI for secure and transparent transactions.
 
 ---
 
