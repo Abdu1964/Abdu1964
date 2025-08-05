@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Abdu</h1>
 
-### 🧠 Software & AI Developer @ iCogLabs
+### 🧠 Software & AI Developer 
 
 I'm passionate about building AI systems that make real-world impact. Currently working on AI for longevity and biological knowledge graphs.
 
