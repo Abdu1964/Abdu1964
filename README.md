@@ -30,12 +30,14 @@ I'm passionate about building AI systems that make real-world impact. Currently 
 #### 🧬 [BioCypher-KG](https://github.com/Abdu1964/biocypher-kg)  
 > Biomedical Knowledge Graph project for structured biological data integration.
 
+#### ⚙️ [Monitoring-stack](https://github.com/Abdu1964/monitoring-stack) 
 #### 🧬 [Amharic Hate Speech Detection](https://github.com/Abdu1964/amharic-hate-speech-detection)  
 > Fine-tuning AI models to detect hate speech in Amharic language datasets.
 
 #### ⚙️ [Ansible-Deploy_v2.0](https://github.com/Abdu1964/ansible-deploy_v2.0)  
 > Automated server and application deployment using Ansible playbooks.
 
+#### ⚙️ [Bio-semantic parser](https://github.com/Abdu1964/bio-semantic-parser)  
 #### 👨‍💻 [Developer_Connector](https://github.com/Abdu1964/Developer_Connector)  
 > A platform to connect developers, share resources, and collaborate on projects.
 
